@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url('https://res.cloudinary.com/drislwgls/image/upload/v1676705198/00FE7D08-2FDC-42F9-B7CB-A9E6D36D7B4C_ph6np4.jpg');
+    height: 90vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    font-family: roboto;
+    padding: 15px;
+    font-size: 42px;
+    font-weight: 900;
+}
+
+.para {
+    color: #1607ba;
+    font-family: roboto;
+    padding: 15px;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.bottom-container {
+    padding: 15px;
+    margin: 10px;
+}
+
+.image {
+    height: 140px;
+    width: 140px;
+}
+
+.imagee {
+    height: 135px;
+    width: 130px;
+}
+
+.image-container {
+    height: 150px;
+    width: 140px;
+    margin: 10px;
+}
+
+.card-heading {
+    font-size: 15px;
+    text-align: center;
+    color: #151765;
+    font-weight: bold;
+}
+
+.card-paragraph {
+    font-size: 13px;
+    text-align: center;
+    color: #5a1784;
+}
+
+.bottom-heading-container {
+    height: 25vh;
+    width: 100vw;
+    background-color: #151765;
+    padding: 20px;
+}
+
+.bottom-paragraph {
+    font-size: 10px;
+    color: white;
+    font-family: roboto;
+}
+
+.bottom-card-heading {
+    font-size: 20px;
+    color: white;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.bottom-titles {
+    padding: 15px;
+}
+
+.bottom-image {
+    height: 120px;
+    width: 140px;
+}
+
+.bottom-content-heading {
+    font-size: 15px;
+    color: #5a1784;
+    font-weight: bold;
+}
+
+.bottom-content-paragraph {
+    color: #5a7184;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.bottom-content-container {
+    padding: 8px;
+}
+
+.back-button {
+    background-color: #151765;
+    border-radius: 15px;
+    color: white;
+    height: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    width: 50px;
+    text-align: center;
+}
+
+.bottom-bg-container {
+    padding: 25px;
+}
